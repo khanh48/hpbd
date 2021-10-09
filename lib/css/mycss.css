@@ -23,17 +23,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     animation-name: hien;
-    -o-animation-name: hien;
-    -moz-animation-name: hien;
-    -webkit-animation-name: hien;
     animation-duration: 20s;
-    -o-animation-duration: 20s;
-    -moz-animation-duration: 20s;
-    -webkit-animation-duration: 20s;
     animation-iteration-count: infinite;
-    -o-animation-iteration-count: infinite;
-    -moz-animation-iteration-count: infinite;
-    -webkit-animation-iteration-count: infinite;
 }
 .content{
     color: tomato;
