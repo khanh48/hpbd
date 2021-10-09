@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="body">
+    <div class="main">
         <div class="b1">
         </div>
         <div class="content">
