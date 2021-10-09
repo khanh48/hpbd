@@ -107,10 +107,6 @@ body{
     0%{opacity: 100%;}
     100%{opacity: 0%;}
 }
-@keyframes hiebnut{
-    0%{opacity: 0%;}
-    100%{opacity: 100%;}
-}
 @font-face {
     font-family: cus;
     src: url('../font/QX_LatypeSans.ttf') format('truetype');
